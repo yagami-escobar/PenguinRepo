@@ -1,0 +1,17 @@
+total 40
+drwxr-xr-x.  8 root root  4096 feb  9 20:39 .
+dr-xr-x---. 13 root root  4096 feb  9 20:00 ..
+drwxr-xr-x.  2  501 games  130 feb 17  2011 angel_gonzalez
+drwxr-xr-x.  2  501 games  143 feb 17  2011 Gustavo_Adolfo_Becquer
+drwxr-xr-x.  2  501 games   74 feb 17  2011 Juan_Ramon_Jimenez
+-rw-r--r--.  1 root root   108 feb  9 19:24 jy1.txt
+-rw-r--r--.  1 root root   161 feb  9 20:27 names_number.log
+-rw-r--r--.  1 root root    84 feb  9 20:05 nombres.log
+-rw-r--r--.  1 root root    39 feb  9 20:01 nombres_uniq.log
+-rw-r--r--.  1 root root  6833 dic  8 04:02 poemass.tar.gz
+drwxr-xr-x.  2 root root     6 feb  9 20:31 PROCESAMIENTO_TEXTO_FILTROS
+drwxr-xr-x.  2 root root     6 feb  9 20:31 REDIRECCIONES_TUBERIAS_SECUENCIA_TEXTO
+-rw-r--r--.  1 root root     0 feb  9 20:39 tech_dev
+-rw-r--r--.  1 root root    16 feb  9 20:39 tech_devops.txt
+-rw-r--r--.  1 root root    10 feb  9 20:40 tech_devs.txt
+drwxr-xr-x.  2  501 games   56 feb 17  2011 varios
