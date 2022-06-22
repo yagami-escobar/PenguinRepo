@@ -1,11 +1,15 @@
 ### Guia Flags:
 ```
 -I | --head     -> Muestra solo la cabezera de la petición.
--v | --verbose  -> Muestra de forma más detallada la petición.
+-i | --include  -> Muestra la Cabecera y el Cuerpo de la Respuesta.
+-v | --verbose  -> Muestra de forma más detallada la petición, incluye Cabecera, Cuerpo de la respuesta y detalles del proceso.
 -L | --location -> Sigue las redirecciones del sitio web, es recomendable su uso.
+
 -O | --remote-name -> Descarga el recurso con el mismo nombre del recurso remoto, no se puede setear.
 -o | --output   -> Descarga el archivo permitiendo cambiar el nombre del recurso remoto.
+
 -X | --request  -> Sirve para especificar el tipo de petición a usar(GET, POST, OPTIONS, etc)
+-k | --insecure -> Permite conexiones de servidores inseguros cuando se utiliza SSL.
 ```
 
 ### Consultar el Header del Recurso/Servicio/API/etc
